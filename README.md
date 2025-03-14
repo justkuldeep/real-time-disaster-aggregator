@@ -24,33 +24,7 @@ React Router	Client-side navigation
 Axios / Fetch API	Data fetching
 
 
-📂 Project Structure
-disaster-info-app/
-│── public/
-│   ├── index.html
-│── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── DisasterCard.jsx
-│   │   ├── SourceFilter.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   ├── api/
-│   │   ├── fetchData.js
-│   ├── styles/
-│   │   ├── navbar.css
-│   │   ├── home.css
-│   │   ├── about.css
-│   │   ├── disasterCard.css
-│   │   ├── filter.css
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│── package.json
-│── vite.config.js
-│── README.md
+![image](https://github.com/user-attachments/assets/babac76a-4a59-46cc-a83e-b2d513a3f39b)
 
 
 🚀 Installation & Setup
