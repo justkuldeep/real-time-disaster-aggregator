@@ -29,10 +29,10 @@ Axios / Fetch API	Data fetching
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/disaster-info-app.git
+git clone https://github.com/justkuldeep/real-time-disaster-aggregator.git
 cd disaster-info-app
-git clone https://github.com/your-username/disaster-info-app.git
-cd disaster-info-app
+git clone https://github.com/justkuldeep/real-time-disaster-aggregator.git
+cd real-time-disaster-aggregator
 
 2️⃣ Install Dependencies
 npm install
